@@ -1,53 +1,50 @@
 # Jobsheet-3-HTTP-Request-and-API-Kayla_Nahda_Muadzah-21343052
 
 
-## Langkah-langkah Penggunaan API dalam Node.js
+# Penggunaan API dalam Node.js: Langkah-langkah
 
-### Pemahaman HTTP Request dan API:
+## Pemahaman HTTP Request dan API:
 
 - **HTTP Request:**
-  - Mengirim permintaan dari klien ke server web.
+  - Pengiriman permintaan dari klien ke server web.
 - **API:**
-  - Protokol yang memungkinkan aplikasi berkomunikasi.
+  - Protokol yang memfasilitasi komunikasi antar aplikasi.
 
-### Mengakses Weatherstack API:
+## Akses ke Weatherstack API:
 
-1. **Daftar di Weatherstack:**
-   - Dapatkan API Access Key.
+1. **Mendaftar di Weatherstack:**
+   - Dapatkan Kunci Akses API.
 2. **Permintaan Data Cuaca:**
-   - Kirim HTTP request ke Weatherstack untuk informasi cuaca.
+   - Kirim permintaan HTTP ke Weatherstack untuk informasi cuaca.
 
-### Menggunakan Node.js untuk Akses API:
+## Pemanfaatan Node.js untuk Mengakses API:
 
-- **Buat Proyek Node.js:**
-  - Membangun proyek baru dengan Node.js.
-- **Gunakan `postman-request`:**
-  - Library untuk permintaan HTTP.
+- **Membuat Proyek Node.js:**
+  - Inisialisasi proyek baru dengan Node.js.
+- **Menggunakan `postman-request`:**
+  - Perpustakaan untuk permintaan HTTP.
 
-### Mengelola Respons API:
+## Penanganan Respons API:
 
-- **Mengolah Respons JSON:**
-  - Memproses respons JSON menggunakan Node.js.
-- **Akses Data Tertentu:**
-  - Ambil informasi seperti temperatur atau deskripsi cuaca.
+- **Memproses Respons JSON:**
+  - Mengelola respons JSON menggunakan Node.js.
+- **Mengakses Data Tertentu:**
+  - Mendapatkan informasi seperti suhu atau deskripsi cuaca.
 
-### Gunakan API Mapbox:
+## Menggunakan API Mapbox:
 
-1. **Daftar di Mapbox:**
+1. **Mendaftar di Mapbox:**
    - Dapatkan Token API.
-2. **Permintaan Data Geolocation:**
-   - Gunakan API Mapbox untuk informasi koordinat.
+2. **Permintaan Data Geolokasi:**
+   - Manfaatkan API Mapbox untuk informasi koordinat.
 
-## Penjelasan Ringkas:
+## Penjelasan Singkat:
 
 - **HTTP Request & API:**
-  - Cara untuk berkomunikasi antara klien dan server.
+  - Metode komunikasi antara klien dan server.
 - **Akses Weatherstack dengan Node.js:**
   - Gunakan Node.js dan `postman-request`.
-- **Mengelola Respons API:**
-  - Memproses dan mengambil data penting.
-- **Gunakan API Mapbox:**
+- **Penanganan Respons API:**
+  - Proses dan ambil data penting.
+- **Menggunakan API Mapbox:**
   - Dapatkan informasi lokasi dengan token API.
-
-Dengan langkah-langkah ini, aplikasi Anda bisa mengintegrasikan data dari layanan eksternal dengan mudah menggunakan Node.js! 🚀
-
